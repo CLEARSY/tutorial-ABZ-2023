@@ -1,5 +1,6 @@
 # tutorial-ABZ-2023
 
+![CLEARSY Safety Platform Tutorial](https://github.com/CLEARSY/tutorial-ABZ-2023/blob/main/pictures/title-page.jpg)
 
 __Using B to program the CLEARSY Safety Platform Starter Kit For Education__
 
