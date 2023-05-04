@@ -19,20 +19,28 @@ __Attending__
 The tutorial will be run within the framework of the ABZ 2023 international conference (https://abz2023.loria.fr/).
 It will take place on Tuesday May 30th, from 15:45 to 18:45 in the amphithéatre A008 Jean Legras. 
 
+__Participating__
+3 possibilities are offered:
+- listening to the tutorial
+- listening and doing the exercices with the software simulator (Windows only, self-sufficient 550 Mo archive)
+- listening and doing the exercices with the SK0 board connected through a USB host port (Windows only, self-sufficient 550 Mo archive)
+
 __Outline__ (Duration : 3 hours)
 
 1. Introduction
-   1. Key concepts 
-   2. Development cycle
-2. The CLEARSY Safety Platform (CSSP) for education
-   1. The programming model
-   2. Modelling with B for CSSP
-   3. Exercices: 3-bit adder, clock, deadman checker, filter, traffic lights, valve, track circuit, pumps, airlock
+   1. Overview, key features, applications 
+   2. Installing and setting up the environment
+2. Programming model
+   1. Design principles "à la ARDUINO"
+   2. CLEARSY Safety Platform project specifics
+   3. Process: modelling, verification, code generation
+3. Exercices
+   1. Simple: Not, or / 3-bit adder / clocks / flasher / deadman / filter / secret code / SOS
+   2. More complex: traffic lights management
 3. Conclusion 
 
 __Resources__  
 Directions, software (IDE), slides, models, and source code are hosted at https://github.com/CLEARSY/tutorial-ABZ-2023
-
 
 
 __Requirements__
