@@ -9,13 +9,15 @@ This tutorial presents the programming model, based on B, of the CLEARSY Safety 
 
 __Organisers__
 The tutorial is given by:
-- Florain JAMAIN (safety engineer), involved in the education over the CLEARSY Safety Platform.
+- Dalay ALMEIDA (Safety Engineer), involved in the research and the education over the CLEARSY Safety Platform.
+- Florain JAMAIN (Safety Engineer), involved in the education over the CLEARSY Safety Platform.
 - Thierry LECOMTE (R&D Director), involved in the development of the CLEARSY Safety Platform for Education.
 
 This tutorial is heavily based on the courses and seminars given in different engineering schools and universities in Brasil, Canada, France, Italy, Japan, Norway, Portugal, and UK.
  
 __Attending__  
-The tutorial will be run within the framework of the ABZ 2023 international conference (https://abz2023.loria.fr/).  
+The tutorial will be run within the framework of the ABZ 2023 international conference (https://abz2023.loria.fr/).
+It will take place on Tuesday May 30th, from 15:45 to 18:45 in the amphithéatre A008 Jean Legras. 
 
 __Outline__ (Duration : 3 hours)
 
