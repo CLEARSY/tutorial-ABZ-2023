@@ -2,13 +2,11 @@
 
 ![CLEARSY Safety Platform Tutorial](https://github.com/CLEARSY/tutorial-ABZ-2023/blob/main/pictures/title-page.jpg)
 
-__Using B to program the CLEARSY Safety Platform Starter Kit For Education__
-
+__Using B to program the CLEARSY Safety Platform Starter Kit For Education__  
 This tutorial presents the programming model, based on B, of the CLEARSY Safety Platform, through a number of examples. These examples are exploited to demonstrate how the platform could be used for education, bridging the gap between formal methods and embedded systems / automation.
 
 
-__Organisers__
-
+__Organisers__  
 The tutorial is given by:
 - Dalay ALMEIDA (Safety Engineer), involved in the research and the education over the CLEARSY Safety Platform.
 - Florain JAMAIN (Safety Engineer), involved in the education over the CLEARSY Safety Platform.
@@ -17,19 +15,16 @@ The tutorial is given by:
 This tutorial is heavily based on the courses and seminars given in different engineering schools and universities in Brasil, Canada, France, Italy, Japan, Norway, Portugal, and UK.
  
 __Attending__  
-
 The tutorial will be run within the framework of the ABZ 2023 international conference (https://abz2023.loria.fr/).
 It will take place on Tuesday May 30th, from 15:45 to 18:45 in the amphithéatre A008 Jean Legras. 
 
 __Participating__  
-
 3 possibilities are offered:
 - listening to the tutorial
 - listening and doing the exercices with the software simulator (Windows only, self-sufficient 550 Mo archive)
 - listening and doing the exercices with the SK0 board connected through a USB host port (Windows only, self-sufficient 550 Mo archive)
 
-__Outline__ (Duration : 3 hours)
-
+__Outline__ (Duration : 3 hours)   
 1. Introduction
    1. Overview, key features, applications 
    2. Installing and setting up the environment
@@ -43,25 +38,21 @@ __Outline__ (Duration : 3 hours)
 3. Conclusion 
 
 __Resources__  
-
 Directions, software (IDE), slides, models, and source code are hosted at https://github.com/CLEARSY/tutorial-ABZ-2023
 
 
-__Requirements__
-
+__Requirements__   
 To follow the tutorial, participants are expected to bring their laptops and to have Windows 10 or 11 installed (natively or through a VM).
 A number of skills/knowledge is also expected from participants:
 - intermediate software development, 
 - comfortable with formal logic,
 - knowledge/experience with B or Event-B.
 
-__Skills learned__
-
+__Skills learned__   
 - introduction to safety computer
 - programming a logic controller with B
 
-__Contributers__
-
+__Contributers__   
 Nicolas Ayache, François Guignot, Florian Jamain, Thierry Lecomte
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
