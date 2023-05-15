@@ -38,8 +38,10 @@ __Outline__ (Duration : 3 hours)
 3. Conclusion 
 
 __Resources__  
-Directions, software (IDE), slides, models, and source code are hosted at https://github.com/CLEARSY/tutorial-ABZ-2023.
-Software and slides will be released before the tutorial. 
+Directions, slides, models, and source code are hosted at https://github.com/CLEARSY/tutorial-ABZ-2023.
+Software (IDE) is available at https://clearsy.com/wp-content/uploads/2023/05/CSSP_for_education_20230515.zip.
+Installation procedure is available at https://github.com/CLEARSY/tutorial-ABZ-2023/installation_procedure.pdf. 
+Slides will be released before the tutorial. 
 Models (solutions to exercices) will be released after the tutorial.
 
 
