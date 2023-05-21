@@ -4,7 +4,7 @@
 
 __Using B to program the CLEARSY Safety Platform Starter Kit For Education__  
 This tutorial presents the programming model, based on B, of the CLEARSY Safety Platform, through a number of examples. These examples are exploited to demonstrate how the platform could be used for education, bridging the gap between formal methods and embedded systems / automation.  
-<span style="color: blue;">Update:</span> slides (introduction, programming model, exercices list) are now ![available](https://github.com/CLEARSY/tutorial-ABZ-2023/blob/main/ABZ-tuto-CSP-SK0-2023.05.21.pdf). 
+*Update:* slides (introduction, programming model, exercices list) are now [available](https://github.com/CLEARSY/tutorial-ABZ-2023/blob/main/ABZ-tuto-CSP-SK0-2023.05.21.pdf). 
 
 
 __Organisers__  
