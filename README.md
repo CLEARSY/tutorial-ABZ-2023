@@ -40,8 +40,7 @@ __Outline__ (Duration : 3 hours)
 
 __Resources__  
 Directions, slides, models, and source code are hosted at https://github.com/CLEARSY/tutorial-ABZ-2023.  
-Software (IDE) is available at https://clearsy.com/wp-content/uploads/2023/05/CSSP_for_education_20230522.zip.  
-Installation procedure is [available](https://github.com/CLEARSY/tutorial-ABZ-2023/blob/main/installation_procedure.pdf).   
+Software (Atelier B 24.04 CLEARSY Safety Platform) is available at https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/.  
 Slides (intro, programming model, exercice list) have been [released](https://github.com/CLEARSY/tutorial-ABZ-2023/blob/main/ABZ-tuto-CSP-SK0-2023.05.21.pdf).   
 Models (solutions to exercices) will be released after the tutorial. 
 
